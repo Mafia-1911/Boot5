@@ -1,0 +1,18 @@
+body {
+  background-color: #5c3c92;
+}
+
+.container {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+}
+
+.edit {
+  background-color: #5c3c92;
+  color: white;
+}
+/*# sourceMappingURL=styles.css.map */

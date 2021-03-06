@@ -1,0 +1,22 @@
+@import "scss/_variables";
+body{
+    background-color:#5c3c92 ;
+    
+}
+.container{
+    justify-content: center;
+    align-items: flex-end;
+
+
+}
+.edit{
+    background-color: #5c3c92;
+    color: white;
+
+}
+.gg{
+    //background-color: $cyan-600;
+    background-image: linear-gradient(-90deg, #13e0c5,#a83279);
+    color: black;
+}
+//make a gradient nav bar ( bg navilink   background-image: linear-gradient(-90deg, #13e0c5,#a83279)  )
